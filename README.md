@@ -1,3 +1,3 @@
 "# ISS_Tracker" 
 
-![alt text](foto.png "imagem ilustrativa")
+![alt text](foto "imagem ilustrativa")
